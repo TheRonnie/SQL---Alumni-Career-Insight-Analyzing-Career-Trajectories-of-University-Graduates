@@ -29,6 +29,9 @@ Tasks to be performed
  
 15.	Write a query to create procedure get_name_collegeB using the cursor to fetch names of all students from college B.
 16.	Calculate the percentage of career choice of College A and College B Alumni
--- (w.r.t Higher Studies, Self Employed and Service/Job)
+      -- (w.r.t Higher Studies, Self Employed and Service/Job)
+      Note: Approximate percentages are considered for career choices
+   	![image](https://github.com/TheRonnie/Alumni-Career-Insight-Analyzing-Career-Trajectories-of-University-Graduates/assets/98576788/c3faa577-630c-46e6-8b72-443ebed05acc)
+
 
 
